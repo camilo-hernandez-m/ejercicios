@@ -8,7 +8,7 @@ addEventListener("DOMContentLoaded", ()=>{
     console.log(`La resta es ${num1} - ${num2} = ${num1 - num2}`);
     console.log(`La multiplicacion es ${num1} * ${num2} = ${num1 * num2}`);
     console.log(`La division es ${num1} / ${num2} = ${num1 / num2}`);
-
+    
 
 
 
