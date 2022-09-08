@@ -3,8 +3,8 @@ addEventListener("DOMContentLoaded", ()=>{
     let mets=2*1000
     let segs=60*5
     let tiempo=5
-    ms=mets/segs
-    v=mets/tiempo
+    let ms=mets/segs
+    let v=mets/tiempo
     console.log("metros/segundos:",ms);
     console.log("velocidad:",v);
 })
